@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![trophy](https://github-profile-trophy.vercel.app/?tusharpareenja=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 tusharpareenja/tusharpareenja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
